@@ -1,0 +1,18 @@
+# Құпиялар мен орта айнымалылары
+.env
+.env.*
+!.env.example
+
+# Құпия агент логы (GitHub-қа жіберуге тыйым салынған)
+agents_log.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.ruff_cache/
+
